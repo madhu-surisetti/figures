@@ -1,0 +1,71 @@
+#+TITLE: Hacking
+
+* Hacking is...
+** figuring out
+most of hacking is.
+you even have to figure out what to figure out.
+this means asking the right questions.
+where to go next?
+what's my compass?
+why does it have to be this way?
+what happens if i choose this instead?
+ignorance is the boarding station.
+you figure out your destination as you go along.
+hacking is figuring out a way around.
+you figure it out because you understand the general.
+now you have to be specific.
+switching between general and specific.
+and that's where a lot of fun is.
+** being lazy
+dislike drudgery.
+mental or physical.
+bad for mind.
+love mental battles.
+good for mind.
+good for soul.
+good for world.
+** having foresight
+because all things intelligent are prediction machines.
+foresight doesn't come from a mystical place.
+it comes by asking questions.
+a lot of them.
+** admitting truth
+especially uncomfortable truths.
+truth is reality.
+admitting truth is admitting reality.
+acknowledging how the world really is.
+when you do that, you predict better.
+admit ignorance.
+** learning
+/sometimes you win, sometimes you learn/
+don't confuse learning with remembering or experience(though both of these are important).
+hacking is learning of a different kind.
+here, when you learn, you relate.
+nothing is a one off.
+nothing exists in isolation.
+nothing is new.
+when you use the phrases like *isn't that just like...* or *wait, aren't those two the same thing?* you are learning by relation.
+for example, isn't *formality* just another word for *pretense*?
+put another way, learning is seeing similarities despite differences.
+think about what the word *similarity* implies.
+it means, if *a* and *b* are similar, what applies for *b* goes for *a* and vice versa.
+if you /learn/ this way, your brain lights up with new ideas.
+it's a lot of fun.
+** giving form
+you don't hack in your mind.
+you give form to your thoughts.
+hacking is incomplete without that.
+hacking /is/ giving form to your thoughts.
+you're doing that when you code.
+when your thoughts are messy, it shows in code.
+ofcourse, /giving form/ is just another word for *designing*.
+** thinking
+again, thinking does not come from a magical place.
+the kind of thinking you do in hacking is tangible.
+in hacking, your thoughts have shape.
+you name. you describe. you do. you relate.
+ring any bells?
+keep thinking.
+how do you all that?
+spoiler alert!
+the answer: you need a *language*.
