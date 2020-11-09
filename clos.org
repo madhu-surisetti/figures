@@ -1,0 +1,36 @@
+#+TITLE: Clos
+
+* Object oriented programming
+what is an object?
+i know that numbers, strings, lists are objects.
+so objects are data structures?
+type is the defining quality of the object.
+type determines which methods can act on the object.
+so objects have data. and objects have methods that can act on them.
+
+oop and functional-programming are the two ends of a stick.
+from what i've seen, both paradigms exist to deal with something i call *generic functions*.
+which means that they can act on objects of many types.
+types are what oop calls /classes/.
+oop makes it easy to add a new type to existing /general functions/.
+where as, /fp/ makes it easy to add new /operations/ to existing types.
+the problem is, in oop, when you want to add a new /general operator/ you have to change all the objects.
+in /fp/, you have to change all the /general operators/ to add a new type.
+
+all of that over *generic functions*.
+why do you even need /general functions/?
+maybe, you should ask yourself *will a generic function solve this problem*?
+hmm... see SICP?
+* Generality
+being general is cool.
+oop is just one of many to achieve generality.
+for example, there are generic procedures.
+meaning passing functions as arguments.
+
+being general is important.
+try to imagine a world without functions.
+functions are general.
+their arguments can be any object of a specialized type.
+oop is a step up in this hierarchy.
+because functions can now act on many types.
+being general means being maintainable too.

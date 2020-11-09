@@ -1,0 +1,8 @@
+#+TITLE: Lang Design
+
+* How languages work
+** what good languages look like
+languages are general purpose.
+they occupy the highest position on the pyramid of reusability.
+*** a better question what does /generality/ breed?
+for starters, generality breeds simplicity.

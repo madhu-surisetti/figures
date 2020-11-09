@@ -1,0 +1,33 @@
+#+TITLE: 12 Week Year-1
+
+* Goals
+** blog
+in this year, you will publish an essay once a week.
+a total of 12 essays.
+you will summarize.
+you will write when you don't understand something.
+you will write when you read.
+** meddling
+you will read lots of code.
+*** emacs
+*** paip
+*** django
+*** other python apps
+** hack
+you should hack on interpreters/transpilers.
+you will design languages.
+you will study them.
+you will make 2 transpilers:
+python->lisp
+lisp->python
+** books
+lots of reading.
+get curious.
+ask questions.
+** GATE
+you should finish 80% of the syllabus.
+write tests.
+* Measurement
+you should measure your work.
+measurement will make you better.
+measure how much you write.

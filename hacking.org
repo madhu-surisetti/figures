@@ -14,8 +14,7 @@ you figure out your destination as you go along.
 hacking is figuring out a way around.
 you figure it out because you understand the general.
 now you have to be specific.
-switching between general and specific.
-and that's where a lot of fun is.
+switching between general and specific is where a lot of fun is.
 ** being lazy
 dislike drudgery.
 mental or physical.
@@ -27,8 +26,7 @@ good for world.
 ** having foresight
 because all things intelligent are prediction machines.
 foresight doesn't come from a mystical place.
-it comes by asking questions.
-a lot of them.
+it comes by asking a lot of questions.
 ** admitting truth
 especially uncomfortable truths.
 truth is reality.
@@ -38,7 +36,7 @@ when you do that, you predict better.
 admit ignorance.
 ** learning
 /sometimes you win, sometimes you learn/
-don't confuse learning with remembering or experience(though both of these are important).
+don't confuse learning with remembering or experience(though both of them are important).
 hacking is learning of a different kind.
 here, when you learn, you relate.
 nothing is a one off.
@@ -69,3 +67,11 @@ keep thinking.
 how do you all that?
 spoiler alert!
 the answer: you need a *language*.
+languages tame complexity.
+it is your job as a hacker to tame complexity.
+so, you must /learn/ how to *design* languages.
+study good designs.
+how they minimize complexity.
+the phrases *learning to think well* and *design an appropriate language for the problem* are synonymous.
+every great hacker is a *language designer*.
+language design is worth studying.

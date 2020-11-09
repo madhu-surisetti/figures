@@ -1,0 +1,15 @@
+#+TITLE: Grok
+
+* baby steps
+emacs is admirable piece of software.
+i want to know what makes it tick.
+this is what i do: see a feature and ask /how'd they do that?/
+like any other work, to read, you need tools.
+the idea is too find in code what you see on screen.
+the default state of code is *incomprehensible.*
+comprehension happens in iterations.
+** questions
+- where is the entry point?
+- do any of the global vars map to features?
+** foresight
+- production code has tests and error handling

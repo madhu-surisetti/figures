@@ -1,0 +1,19 @@
+#+TITLE: Git
+
+* Version Control System
+** why do i need one?
+you need a tool that operates at the project level.
+with a vcs, you can see
+- timeline -> (what led to this?)
+- spinoff  -> (how do i build something else on this?)
+- merge    -> (how do i integrate my independent work on the project into the main project?)
+
+if you're taking snapshots of your work, these must be fast:
+- snapshotting(committing)
+- switching to branches or commits
+you can see you need good software to do that.
+because commits and branches can be traversed, git prevents you from doing any permanent damage.
+** how does it work?
+well, you have commits and branches.
+commits are snapshots on a timeline.
+branches create a new timeline with a shared history.

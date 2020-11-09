@@ -1,0 +1,9 @@
+#+TITLE: Gmacs
+
+* the display
+** gtml
+the problem with gtml is frames.
+once i wrote to the screen, i don't know what's on the screen.
+the way to get around this is a pseudo-screen.
+ok. let's try this out.
+just write stuff in deflayout, write to pscreen(pseudo-screen), then write it to real screen.
